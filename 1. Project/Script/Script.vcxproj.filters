@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>ScriptMgr\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>ScriptMgr\Default</Filter>
+    </ClInclude>
+    <ClInclude Include="CScriptMgr.h">
+      <Filter>ScriptMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CAIScript.h">
+      <Filter>Scripts\2D\AIScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGasterScript.h">
+      <Filter>Scripts\2D\AIScript\CGasterScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGrountScript.h">
+      <Filter>Scripts\2D\AIScript\CGrountScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CPompScript.h">
+      <Filter>Scripts\2D\AIScript\CPompScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGunsparkScript.h">
+      <Filter>Scripts\2D\Effct</Filter>
+    </ClInclude>
+    <ClInclude Include="CGunProjScript.h">
+      <Filter>Scripts\2D\Projectile</Filter>
+    </ClInclude>
+    <ClInclude Include="CDoorScript.h">
+      <Filter>Scripts\2D\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="CVentScript.h">
+      <Filter>Scripts\2D\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="CBloodScript.h">
+      <Filter>Scripts\2D\Effct</Filter>
+    </ClInclude>
+    <ClInclude Include="CMainScript.h">
+      <Filter>Scripts\2D\Stage\MainManu</Filter>
+    </ClInclude>
+    <ClInclude Include="CTitleScript.h">
+      <Filter>Scripts\2D\Stage\MainManu</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIScript.h">
+      <Filter>Scripts\2D\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CTimerScript.h">
+      <Filter>Scripts\2D\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIcursorScript.h">
+      <Filter>Scripts\2D\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIskillScript.h">
+      <Filter>Scripts\2D\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIIconScript.h">
+      <Filter>Scripts\2D\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CRazerScript.h">
+      <Filter>Scripts\2D\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="CWallScript.h">
+      <Filter>Scripts\2D\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="CStairScript.h">
+      <Filter>Scripts\2D\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="CFloorScript.h">
+      <Filter>Scripts\2D\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="CFactory_1Script.h">
+      <Filter>Scripts\2D\Stage\factory_1</Filter>
+    </ClInclude>
+    <ClInclude Include="CTargetScript.h">
+      <Filter>Scripts\2D\Stage\target_burn</Filter>
+    </ClInclude>
+    <ClInclude Include="CLighterScript.h">
+      <Filter>Scripts\2D\Stage\target_burn</Filter>
+    </ClInclude>
+    <ClInclude Include="CFloordownScript.h">
+      <Filter>Scripts\2D\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="CCamereScript.h">
+      <Filter>Scripts\2D\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="CTurnbackScript.h">
+      <Filter>Scripts\2D\Player\PostProcess</Filter>
+    </ClInclude>
+    <ClInclude Include="CDeadScript.h">
+      <Filter>Scripts\2D\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerScript.h">
+      <Filter>Scripts\2D\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CClearScript.h">
+      <Filter>Scripts\2D\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="CNongrabwallScript.h">
+      <Filter>Scripts\2D\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="CClear_1Script.h">
+      <Filter>Scripts\2D\Stage\factory_1</Filter>
+    </ClInclude>
+    <ClInclude Include="CLastScript.h">
+      <Filter>Scripts\2D\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="CBrokenObject.h">
+      <Filter>Scripts\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="CMissileScript.h">
+      <Filter>Scripts\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonsterScript.h">
+      <Filter>Scripts\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="CTileMapState.h">
+      <Filter>Scripts\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="CThreeDPlayerScript.h">
+      <Filter>Scripts\3D\Player_3D</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>ScriptMgr\Default</Filter>
+    </ClCompile>
+    <ClCompile Include="Script.cpp">
+      <Filter>ScriptMgr\Default</Filter>
+    </ClCompile>
+    <ClCompile Include="CScriptMgr.cpp">
+      <Filter>ScriptMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CAIScript.cpp">
+      <Filter>Scripts\2D\AIScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGasterScript.cpp">
+      <Filter>Scripts\2D\AIScript\CGasterScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGrountScript.cpp">
+      <Filter>Scripts\2D\AIScript\CGrountScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CPompScript.cpp">
+      <Filter>Scripts\2D\AIScript\CPompScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGunsparkScript.cpp">
+      <Filter>Scripts\2D\Effct</Filter>
+    </ClCompile>
+    <ClCompile Include="CGunProjScript.cpp">
+      <Filter>Scripts\2D\Projectile</Filter>
+    </ClCompile>
+    <ClCompile Include="CDoorScript.cpp">
+      <Filter>Scripts\2D\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="CVentScript.cpp">
+      <Filter>Scripts\2D\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="CBloodScript.cpp">
+      <Filter>Scripts\2D\Effct</Filter>
+    </ClCompile>
+    <ClCompile Include="CMainScript.cpp">
+      <Filter>Scripts\2D\Stage\MainManu</Filter>
+    </ClCompile>
+    <ClCompile Include="CTitleScript.cpp">
+      <Filter>Scripts\2D\Stage\MainManu</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIScript.cpp">
+      <Filter>Scripts\2D\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CTimerScript.cpp">
+      <Filter>Scripts\2D\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIcursorScript.cpp">
+      <Filter>Scripts\2D\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIskillScript.cpp">
+      <Filter>Scripts\2D\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIIconScript.cpp">
+      <Filter>Scripts\2D\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CRazerScript.cpp">
+      <Filter>Scripts\2D\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="CWallScript.cpp">
+      <Filter>Scripts\2D\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="CStairScript.cpp">
+      <Filter>Scripts\2D\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="CFloorScript.cpp">
+      <Filter>Scripts\2D\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="CFactory_1Script.cpp">
+      <Filter>Scripts\2D\Stage\factory_1</Filter>
+    </ClCompile>
+    <ClCompile Include="CTargetScript.cpp">
+      <Filter>Scripts\2D\Stage\target_burn</Filter>
+    </ClCompile>
+    <ClCompile Include="CLighterScript.cpp">
+      <Filter>Scripts\2D\Stage\target_burn</Filter>
+    </ClCompile>
+    <ClCompile Include="CFloordownScript.cpp">
+      <Filter>Scripts\2D\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="CCamereScript.cpp">
+      <Filter>Scripts\2D\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="CTurnbackScript.cpp">
+      <Filter>Scripts\2D\Player\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="CDeadScript.cpp">
+      <Filter>Scripts\2D\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerScript.cpp">
+      <Filter>Scripts\2D\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CClearScript.cpp">
+      <Filter>Scripts\2D\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="CNongrabwallScript.cpp">
+      <Filter>Scripts\2D\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="CClear_1Script.cpp">
+      <Filter>Scripts\2D\Stage\factory_1</Filter>
+    </ClCompile>
+    <ClCompile Include="CLastScript.cpp">
+      <Filter>Scripts\2D\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="CBrokenObject.cpp">
+      <Filter>Scripts\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="CMissileScript.cpp">
+      <Filter>Scripts\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonsterScript.cpp">
+      <Filter>Scripts\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="CTileMapState.cpp">
+      <Filter>Scripts\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="CThreeDPlayerScript.cpp">
+      <Filter>Scripts\3D\Player_3D</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Scripts">
+      <UniqueIdentifier>{6afeadb6-9e14-4880-b0d1-1570f2fe6fe0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ScriptMgr">
+      <UniqueIdentifier>{ea0d8f29-dc1e-45ce-8cb1-4e48a63c878a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ScriptMgr\Default">
+      <UniqueIdentifier>{b0910708-1a4a-423e-b8a8-1d692d75b983}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D">
+      <UniqueIdentifier>{3275baf9-c1d3-45d4-828e-e1b9b19dde01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\AIScript">
+      <UniqueIdentifier>{d552cf1b-18c2-43b3-a560-9a0df9aad635}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\AIScript\CGasterScript">
+      <UniqueIdentifier>{05ef073b-202f-472f-820c-5817779c5f53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\AIScript\CGrountScript">
+      <UniqueIdentifier>{d83f9a4e-4b36-4286-9c82-639d94352ecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\AIScript\CPompScript">
+      <UniqueIdentifier>{f868e307-827e-46ab-af7d-0eb43dbcdac2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\Camera">
+      <UniqueIdentifier>{e6f9b6bc-9f8a-405f-86ed-264dcf54e8d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\Effct">
+      <UniqueIdentifier>{46508733-dcad-4c4f-9743-21c3feb978d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\Object">
+      <UniqueIdentifier>{e05f9189-b4b0-4f8a-bfe5-079041c7421e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\Player">
+      <UniqueIdentifier>{0764d0fc-aa9c-4952-b29d-dd5afdd1a0e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\Player\PostProcess">
+      <UniqueIdentifier>{9bd37385-985b-4064-acd5-fd3200f57a88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\Projectile">
+      <UniqueIdentifier>{7c07f374-85cd-42a0-b8cc-a73e3d2631de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\Stage">
+      <UniqueIdentifier>{3d5ed135-eb30-422f-aac1-8404bfb0c1cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\Stage\MainManu">
+      <UniqueIdentifier>{1ba2f8b0-7291-480b-a3f4-1606a949f822}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\Stage\factory_1">
+      <UniqueIdentifier>{518abefd-b6b1-40d7-ba54-b6527f37b086}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\Stage\target_burn">
+      <UniqueIdentifier>{b940af2d-a778-4ede-8478-ed3b9a1e3aa6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\UI">
+      <UniqueIdentifier>{a9a6a784-c680-4c03-8eda-93973d74893f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\2D\Wall">
+      <UniqueIdentifier>{90fab887-7166-4570-a694-5a340a6ef5eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\3D">
+      <UniqueIdentifier>{4c77b1d6-577c-484d-b5ae-e73e5f1ed311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts\3D\Player_3D">
+      <UniqueIdentifier>{a2ed3ecf-e95f-4289-9a98-f56976cebb61}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

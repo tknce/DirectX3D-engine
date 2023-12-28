@@ -1,0 +1,4 @@
+CMissileScript
+CMonsterScript
+CPlayerScript
+CScriptMgr

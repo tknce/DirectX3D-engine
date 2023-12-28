@@ -1,0 +1,11 @@
+﻿  .\1. Project\Script\CMissileScript.h
+  .\1. Project\Script\CMonsterScript.h
+  .\1. Project\Script\CPlayerScript.h
+  .\1. Project\Script\CScriptMgr.h
+  4개 파일이 복사되었습니다.
+  pch.cpp
+  unity_05AMV2C6KDQF46X7.cpp
+C:\Users\ace\Desktop\assort\42Engine\1. Project\Script\CScriptMgr.cpp(26,24): error C2440: 'return': 'CScriptMgr *'에서 'CScript *'(으)로 변환할 수 없습니다.
+C:\Users\ace\Desktop\assort\42Engine\1. Project\Script\CScriptMgr.cpp(26,10): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\ace\Desktop\assort\42Engine\1. Project\Script\CScriptMgr.cpp(44,24): error C2440: 'return': 'CScriptMgr *'에서 'CScript *'(으)로 변환할 수 없습니다.
+C:\Users\ace\Desktop\assort\42Engine\1. Project\Script\CScriptMgr.cpp(44,10): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
